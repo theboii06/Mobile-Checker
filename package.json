@@ -9,7 +9,7 @@
   "dependencies": {
     "binary-reader":"0.1.2",
     "compression": "1.0.11",
-    "css": "2.1.0",
+    "css": "3.0.0",
     "easyimage": "1.0.2",
     "effective-domain-name-parser": "0.0.1",
     "ejs": "1.0.0",
