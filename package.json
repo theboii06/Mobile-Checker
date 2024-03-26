@@ -13,7 +13,7 @@
     "easyimage": "1.0.2",
     "effective-domain-name-parser": "0.0.1",
     "ejs": "1.0.0",
-    "express": "4.4.1",
+    "express": "4.19.2",
     "headless": "0.2.1",
     "image-headers":"0.3.3",
     "insafe": "^0.3.0",
