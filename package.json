@@ -27,7 +27,7 @@
     "q": "1.0.1",
     "request": "^2.83.0",
     "jsonschema": "^1.0.1",
-    "socket.io": "1.0.4"
+    "socket.io": "4.7.0"
   },
   "devDependencies": {
     "coveralls": "^2.11.2",
